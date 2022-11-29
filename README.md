@@ -5,3 +5,5 @@
 # Android Jetpack Compose
 - Teori Side Effect & Effect Handling (https://www.dicoding.com/academies/445/tutorials/27465)
   - Effect Handler 
+- Teori Manajemen State dan State Holder (https://www.dicoding.com/academies/445/tutorials/27475?from=27470)
+  - ViewModel sebagai SSoT Teori Manajemen State dan State Holder
